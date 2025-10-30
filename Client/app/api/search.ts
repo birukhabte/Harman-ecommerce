@@ -31,3 +31,4 @@ export async function searchFilteredHandler({productName,minPrice,maxPrice,ratin
       return {status:500,error: 'Internal Server Error' }
     }
 };// Updated on 2025-10-02 17:44:00
+// Updated on 2025-10-30 14:03:00
