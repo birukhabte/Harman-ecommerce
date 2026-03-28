@@ -47,7 +47,7 @@ Welcome to the repository for our full stack eCommerce website built using the P
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/HarmanPreet-Singh-XYT/E-Commerce.git
+   https://github.com/birukhabte/Harman-ecommerce.git
 2. Navigate to the project directory:
    ```sh
    cd ecommerce-website
@@ -118,7 +118,7 @@ Welcome to the repository for our full stack eCommerce website built using the P
 
 ## Contact
 
-**For any questions or feedback, please contact us at harmanpreetsingh@programmer.net**
+**For any questions or feedback, please contact us at biruk.habte-ug@aau.edu.et
 
 ## Environment Variables (Required before Starting)
 
